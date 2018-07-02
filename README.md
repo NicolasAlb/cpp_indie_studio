@@ -6,5 +6,5 @@ Project realised by : Eliott M-Barali
                       Arthur Brion
                       Stanislas Jallet
                       Maxime Perrin
-                      NicolasAlb
+                      Nicolas Albanel
                       
